@@ -1,0 +1,17 @@
+{
+    "name": "danie/composer",
+    "autoload": {
+        "psr-4": {
+            "Danie\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Luiz",
+            "email": "cross.adm@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^3.4"
+    }
+}
